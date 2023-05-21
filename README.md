@@ -1,2 +1,4 @@
-# udemy
-Base de datos de trabajo para analisis de datos que contiene distintas caracteristicas de cursos ofrecidos en la platadforma de aprendizaje online de udemy
+# LEEME
+Udemy (www.udemy.com) es una tienda virtual que ofrece cursos a distancia sobre diferentes temáticas relacionadas con la tecnología y los negocios. El sitio funciona como un marketplace donde los instructores pueden publicar los cursos que desarrollaron y ganar dinero cuando algún alumno de Udemy los compra. 
+La cantidad de cursos de Udemy ha crecido en forma acelerada debido al éxito de la educación a distancia. Sin embargo, los cursos han tenido demandas muy dispares, algunos han sido un éxito de ventas (bestsellers) y otros tuvieron tan pocos alumnos que no justifican la inversión realizada en ellos.
+La base de datos presentada contiene información util para el aprendizaje de analisis de datos basado en información de los cursos publicados en español entre 2012 y febrero de 2021. 
